@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+langgraph
+langchain
+langchain-core
+langchain-ollama
+typing-extensions
+python-dotenv
