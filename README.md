@@ -70,7 +70,10 @@ The system operates on a cyclic graph (built with LangGraph) containing three sp
     ```
 
 ## 📸 Interface
-*(Add your screenshots here by dragging and dropping them into the GitHub editor)*
+<img width="1468" height="822" alt="Screenshot 2026-01-18 at 7 15 13 PM" src="https://github.com/user-attachments/assets/cddd1195-6fd0-4765-8f89-c15d276a33a1" />
+<img width="1458" height="551" alt="Screenshot 2026-01-18 at 7 18 02 PM" src="https://github.com/user-attachments/assets/fdd53d84-a66e-47a2-bf4b-342a889ee66d" />
+<img width="1176" height="747" alt="Screenshot 2026-01-18 at 7 18 23 PM" src="https://github.com/user-attachments/assets/05dbac63-af40-4110-a4f4-ff1f942a62ae" />
+
 
 ## ⚠️ Disclaimer
 **SIMULATION ONLY.** This software is a portfolio project demonstrating Multi-Agent AI architecture. It uses simulated data profiles for the Angeles National Forest and other regions. It is **not** connected to live emergency alert systems and should not be used for real-world disaster response.
